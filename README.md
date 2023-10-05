@@ -44,7 +44,7 @@ Here are some of the projects I've worked on or plan to work on:
 
 Feel free to connect with me on:
 
-- GitHub: [GitHub Profile]([[link-to-MY-github-profile]-(https://github.com/blessedrajp)]
+- GitHub: [blessedrajp][(https://github.com/blessedrajp)]
 - LinkedIn: [BlessedrajP](www.linkedin.com/in/blessed-raj-p)
 
 Let's learn and grow together in the world of full stack web development!
