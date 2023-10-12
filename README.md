@@ -1,4 +1,4 @@
-# Full Stack Web Development Repository
+# ABOUT
 
 Welcome to my FRONT END Web Development repository! This repository contains the code and resources for my journey in learning and practicing full stack web development.
 
