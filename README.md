@@ -20,31 +20,22 @@ I'll be using a variety of technologies in my full stack development journey, in
   - HTML5
   - CSS3
   - JavaScript(learning)
+  - Bootstrap
+  - JQuery Pluggins
   - React(learning)
 
 - **Tools:**
   - Git & GitHub
   - Visual Studio Code
+  - Canva
 
-## Projects
-
-Here are some of the projects I've worked on or plan to work on:
-
-**FRONT END PROJECTS**
-
-1. **Project 1**: [MERN Mastery Hub](link-to-project-1)   *working
-   MERN Mastery Hub is an innovative tutorial website dedicated to the MERN stack (MongoDB, Express.js, React, Node.js) for aspiring developers.
-   - HTML,CSS,BOOTSTRAP,JAVASCRIPT
-
-2. **Project 2**: [Anime-Unite-Stream:](link-to-project-2) *working
-   Anime-Unite-Stream brings together all your favorite anime content from various Telegram channels, making it effortless to access the latest episodes, movies, and series in one centralized platform.
-    HTML,CSS,BOOTSTRAP,JAVASCRIPT
 
 ## Get in Touch
 
 Feel free to connect with me on:
 
-- GitHub: [blessedrajp][(https://github.com/blessedrajp)]
 - LinkedIn: [BlessedrajP](www.linkedin.com/in/blessed-raj-p)
+- Email:blessedrajp@gmail.com
+- mob:+91 7305741744
 
 Let's learn and grow together in the world of full stack web development!
